@@ -5,10 +5,14 @@ This is mostly complete. Clone the repo down to your computer.
 Install the extensions for Python development
 * Python Extension Pack
 * Markdown All in One
-* 
+  
 Individually play the game a few times (5 minutes max).
 
-What are some improvements that could be made to the game? Brainstorm with your group.
+What are some improvements that could be made to the game? Brainstorm with your group and list them here in the README:
+
+*  
+*  
+*  
 
 Next, examine the code and discuss what is going on with your partner(s).
 
